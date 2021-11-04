@@ -4,3 +4,5 @@ Donut and coffee tutorial by Blender Guru - https://www.youtube.com/watch?v=NyJW
 ![BlenderGuru - DonutAndCoffee - Procedural Texturing - Lighting fix](https://user-images.githubusercontent.com/49490973/139569345-c71bba87-a4a0-4d2a-86a1-069955f2a592.png)
 
 ![BlenderGuru - DonutAndCoffee - CoffeeCup - Denoised](https://user-images.githubusercontent.com/49490973/139569348-36cbda15-507d-42e9-8985-82c7a1492d0a.png)
+
+![BlenderGuru - DonutAndCoffee - BrickWall](https://user-images.githubusercontent.com/49490973/140376482-6f6c6eee-51f6-48e4-976f-e872080ab44b.png)
